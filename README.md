@@ -1,12 +1,14 @@
 # XBoxDrv Scripts
 
-Scripts for various joysticks to be mapped to xbox, using xboxdrv.
+Scripts for various joysticks to be mapped to xbox, using xboxdrv, now you can play your favorite games on sites:
+- https://www.xbox.com/pt-BR/play
+
+- https://jam.gg/ or https://piepacker.com/#root
 
 ## Suported Joysticks
 - Inova CON_7197
 
 ![image](https://user-images.githubusercontent.com/950706/177052370-91d2686b-e7ca-476f-bd7e-5952c1e0fcc1.png)
-
 
 - Gamepad or Psxpad (Personal Communication Systems, Inc. Dual PSX Adaptor)
 
