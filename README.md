@@ -1,4 +1,4 @@
-# XBoxDrv Script
+# XBoxDrv Scripts
 
 Scripts for various joysticks to be mapped to xbox, using xboxdrv.
 
@@ -16,11 +16,13 @@ Scripts for various joysticks to be mapped to xbox, using xboxdrv.
 - Force Feedback may not works.
 
 ## How to use
-  1- Connect your joystick
+  1- Install xboxdrv on your linux distro
+ 
+  2- Connect your joystick
 
-  2- Open an terminal
+  3- Open an terminal
 
-  3- Execute one of script
+  4- Execute one of script
   > sudo psxpad_to_xbox.sh
 
 If you need use more than one joystick you can edit joystick
