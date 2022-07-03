@@ -7,4 +7,4 @@ Scripts for various joysticks to be mapped to xbox.
 - Inova CON_7191
 
 ## Problems
-- Forcefeedback normally dont works.
+- Force Feedback normally dont works.
