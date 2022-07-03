@@ -25,9 +25,7 @@ Scripts for various joysticks to be mapped to xbox, using xboxdrv.
   4- Execute one of script
   > sudo psxpad_to_xbox.sh
 
-If you need use more than one joystick you can edit joystick
-
-Change this line of:
+If you need use more than one joystick you can edit the script and change the line:
 
 > input='js0'
 
