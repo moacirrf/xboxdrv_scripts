@@ -22,8 +22,8 @@ https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/psxpad_to_xbox.s
 - Force Feedback may not works.
 
 ## How to use
-  1- Install xboxdrv on your linux distro
- 
+  1- Install xboxdrv (https://xboxdrv.gitlab.io/) on your favorite linux distro
+  
   2- Connect your joystick
 
   3- Open an terminal
