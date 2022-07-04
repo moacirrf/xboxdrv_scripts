@@ -24,11 +24,13 @@ https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/twin_usb_to_xbox
 ## How to use
   1- Install xboxdrv (https://xboxdrv.gitlab.io/) on your favorite linux distro
   
-  2- Connect your joystick
+  2- Restart your system
+  
+  3- Connect your joystick
 
-  3- Open an terminal
+  4- Open an terminal
 
-  4- Execute one of script
+  5- Execute one of script
   > sh twin_usb_to_xbox.sh
 
 If you need use more than one joystick you can edit the script and change the line:
