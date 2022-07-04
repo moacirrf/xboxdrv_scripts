@@ -8,10 +8,12 @@ Scripts for various joysticks to be mapped to xbox, using xboxdrv, now you can p
 ## Suported Joysticks
 - Inova CON_7197
 
+https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/inova_con_7197_to_xbox.sh
 ![image](https://user-images.githubusercontent.com/950706/177052370-91d2686b-e7ca-476f-bd7e-5952c1e0fcc1.png)
 
 - Gamepad or Psxpad (Personal Communication Systems, Inc. Dual PSX Adaptor)
 
+https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/psxpad_to_xbox.sh
 ![image](https://user-images.githubusercontent.com/950706/177052321-36c80abd-451e-404a-b6d2-d8416c40dac1.png)
 
 ## Problems
