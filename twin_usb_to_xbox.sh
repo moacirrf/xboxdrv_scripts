@@ -1,6 +1,6 @@
 #!/bin/bash
 input='js0'
-event=$(cat /proc/bus/input/devices | grep $input | grep -oe event[0-9][0-9])
+event=$(cat /proc/bus/input/devices | grep $input | grep -oe event[0-9])
 
 xboxdrv --evdev /dev/input/${event} \
     --evdev-absmap ABS_X=x1,ABS_Y=y1,ABS_RZ=x2,ABS_Z=y2,ABS_HAT0X=dpad_x,ABS_HAT0Y=dpad_y \
