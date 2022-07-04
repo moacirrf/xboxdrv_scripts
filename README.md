@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/twin_usb_to_xbox
   4- Open an terminal
 
   5- Execute one of script
-  > sh twin_usb_to_xbox.sh
+  > sudo sh twin_usb_to_xbox.sh
 
 If you need use more than one joystick you can edit the script and change the line:
 
