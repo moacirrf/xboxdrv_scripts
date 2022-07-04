@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/psxpad_to_xbox.s
   3- Open an terminal
 
   4- Execute one of script
-  > sudo sh psxpad_to_xbox.sh
+  > sh psxpad_to_xbox.sh
 
 If you need use more than one joystick you can edit the script and change the line:
 
