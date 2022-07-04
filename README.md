@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/inova_con_7197_t
 
 - Twin USB Joystick (Personal Communication Systems, Inc. Dual PSX Adaptor)
 
-https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/psxpad_to_xbox.sh
+https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/twin_usb_to_xbox.sh
 
 ![image](https://user-images.githubusercontent.com/950706/177052321-36c80abd-451e-404a-b6d2-d8416c40dac1.png)
 
