@@ -2,9 +2,8 @@
 
 # Change this line to js1 if your joystick is connected on js1 or if it dont respond.
 input='js0'
-name='CON-7197'
 
-event=$(cat /proc/bus/input/devices | grep -A 10 Name=\""$name"\" | grep $input | grep -oe 'event[0-9]*')
+event=$(cat /proc/bus/input/devices | grep -A 10 'CON-7197' | grep $input | grep -oe 'event[0-9]*')
 
 if [ -z $event ]; then
   echo "  Joystick not found, edit this file, change the line
