@@ -42,8 +42,12 @@ https://raw.githubusercontent.com/moacirrf/xboxdrv_scripts/main/twin_usb_to_xbox
 
   6- Execute one of script
 
+ ``` sh twin_usb_to_xbox.sh```
+ 
+ Maybe you will need execute as root
+ 
  ``` sudo sh twin_usb_to_xbox.sh```
-
+ 
   You must to see something like:
 ```
 xboxdrv 0.8.8 - http://pingus.seul.org/~grumbel/xboxdrv/ 
