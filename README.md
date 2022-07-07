@@ -61,7 +61,7 @@ Press Ctrl-C to quit
 ```
 It means that your device will act like a xbox/xbox360 controller.
 
-  7- Enjoy, if have success you will don't to deal with mapping programs.
+  7- Enjoy, if have success you will don't need to deal with mapping programs.
 
 
 ## Problems
