@@ -1,7 +1,7 @@
 # XBoxDrv Scripts for Linux
 
 Scripts for various joysticks to be mapped to xbox, using xboxdrv, now you can play your favorite games on sites:
-- https://www.xbox.com/pt-BR/play
+- https://www.xbox.com/en-US/play
 
 - https://jam.gg/ or https://piepacker.com/#root
 
